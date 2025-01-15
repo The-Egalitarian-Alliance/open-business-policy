@@ -1,0 +1,51 @@
+{
+	"$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.37.3/schema/markdownlint-config-schema.json",
+	"code-block-style": {
+		"style": "fenced"
+	},
+	"code-fence-style": false,
+	"emphasis-style": {
+		"style": "underscore"
+	},
+	"heading-style": {
+		"style": "atx"
+	},
+	"hr-style": {
+		"style": "---"
+	},
+	"line-length": false,
+	"link-image-style": {
+		"collapsed": false
+	},
+	"no-duplicate-heading": {
+		"siblings_only": true
+	},
+	"no-hard-tabs": {
+		"spaces_per_tab": 4,
+		"code_blocks": false
+	},
+	"no-inline-html": {
+		"allowed_elements": ["img", "a", "sup", "sub", "del", "mark", "br", "q", "small", "u"]
+	},
+	"no-trailing-spaces": {
+		"br_spaces": 0,
+		"strict": true
+	},
+	"ol-prefix": {
+		"style": "ordered"
+	},
+	"proper-names": {
+		"code_blocks": false,
+		"html_elements": true,
+		"names": ["The Open Business Policy", "GitHub", "github.com"]
+	},
+	"strong-style": {
+		"style": "asterisk"
+	},
+	"table-pipe-style": {
+		"style": "leading_and_trailing"
+	},
+	"ul-style": {
+		"style": "sublist"
+	}
+}
