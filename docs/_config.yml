@@ -3,7 +3,7 @@ description: A set of ethical, evidence-based busines policies and procedures
 jekyllurl: "https://jeleniel.github.io/open-business-policy/"
 github_username:  JEleniel
 
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jemoji
