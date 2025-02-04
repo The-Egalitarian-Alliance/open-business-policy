@@ -1,29 +1,17 @@
-# The Open Business Policy
-
-A set of ethical, evidence based business policies and procedures.
-
-## [License](LICENSE.md)
-
-<img src="docs/images/by-sa.svg" style="height:24px;" />
-
-The Open Business Policy © 2025 by Tony M. Bishop is licensed under
-[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;
-
-## Overview
+---
+permalink: /
+---
+# Overview
 
 These documents provides a set of ethical, evidence based, and open source business policies and procedures for any business to use. These policies are designed to enforce fairness, transparency, accountability, and social responsibility within any organization that adopts them. By integrating principles rooted in ethics and evidence, The Open Business Policy aims to create a sustainable, extendable framework that supports the health and well being of the people, the community, and the organization.
-
-## Core Principles
-
-1. **Ethics and Integrity**: Upholding the highest standards of honesty, equity and fairness, and respect for everyone.
-2. **Evidence-Based Decision Making**: Leveraging peer reviewed research, data, and proven approaches to define policies and procedures, ensuring accountability and effectiveness.
-3. **Open Source Accessibility**: In keeping with open source principles provide freely accessible, modifiable, and redistributable policies to encourage community, adaptation, and continuous improvement.
-4. **Inclusivity and Equity**: Actively identify and proactively address biases so that all policies and procedures are equitable, accessible, and inclusive of everyone, regardless of background or circumstances.
-6. **Sustainability**: Embed social, environmental, social, and organizational sustainability into business operations.
 
 ## Scope
 
 These policies and procedures are intended to cover a wide range of organizations and organizational needs while remaining adaptable and scalable. They are structured to address common operational areas such as employee success, community engagement, stewardship, governance, risk management, financial practices, data security, and more.
+
+## Identity and Legal Information
+
+When implementing these policies and procedures an [Identification and Legal Information](core/identification-and-legal.md) page must be the first page or link. This page identifies the various entities that will be referred to throughout the documents, as well as providing a single source for basic legal information such as the identities of the officers of the organization. This allows the rest of the documents to use generic references, such as "the organization" instead of specific names for maximum reusability.
 
 ## About the Policies
 
@@ -50,3 +38,10 @@ These policies and procedures are intended to cover a wide range of organization
 ## Contributing
 
 This collection thrives on collaboration. Users are encouraged to engage in [discussions](https://github.com/JEleniel/open-business-policy/edit/repo-setup/README.md); [suggest additions, changes, or corrections](https://github.com/JEleniel/open-business-policy/edit/repo-setup/README.md); or even join as a direct contributor. Together we can create a framework that empowers ethical, inclusive, sustainable businesses worldwide.
+
+## [License](../LICENSE.md)
+
+<img src="../images/by-sa.svg" alt="CC BY SA Logo" style="height:24px;" />
+
+The Open Business Policy © 2025 by Tony M. Bishop is licensed under
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;

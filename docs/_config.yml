@@ -1,7 +1,74 @@
 title: The Open Business Policy
-description: A set of ethical, evidence-based busines policies and procedures
+subtitle: v1.0.0-alpha1
+description: These documents provides a set of ethical, evidence based, and open source business policies and procedures for any business to use. These policies are designed to enforce fairness, transparency, accountability, and social responsibility within any organization that adopts them. By integrating principles rooted in ethics and evidence, The Open Business Policy aims to create a sustainable, extendable framework that supports the health and well being of the people, the community, and the organization.
+
+url: https://open-business-alliance.github.io/open-business-policy/
+
+repository: Open-Business-Alliance/open-business-policy
 github_username: JEleniel
 
-theme: slate
+remote_theme: mmistakes/minimal-mistakes
+
+permalink: /:categories/:title/
+
+include:
+  - _pages
+
 plugins:
-    - jemoji
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+relative_links:
+  enabled:     true
+  collections: true
+
+# Theme settings
+minimal_mistakes_skin: neon
+search: true
+locale: 'en-US'
+logo: /images/logo.svg
+breadcrumbs: true
+enable_copy_code_button: true
+
+lunr:
+  search_within_pages: true
+
+footer:
+  links:
+    - label: 'Source on GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/Open-Business-Alliance'
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: single
+      toc: true
+      author_profile: false
+      sidebar:
+        nav: "sidebar"

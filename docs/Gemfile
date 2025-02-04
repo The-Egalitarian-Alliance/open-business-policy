@@ -1,9 +1,16 @@
 source "https://rubygems.org"
 
-gem "slate"
 gem "github-pages", group: :jekyll_plugins
 
+gem "tzinfo-data"
+
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jemoji", "~> 0.13"
+	gem 'jekyll-optional-front-matter'
+	gem 'jekyll-relative-links'
+	gem 'jekyll-titles-from-headings'	
+	gem "jekyll-sitemap"
+	gem "jekyll-feed"
+	gem "jemoji"
+	gem "jekyll-include-cache"
+	gem "jekyll-github-metadata"
 end

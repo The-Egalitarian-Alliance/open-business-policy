@@ -1,0 +1,19 @@
+main:
+  - title: 'Posts'
+    url: /posts/
+  - title: 'Categories'
+    url: /categories/
+  - title: 'Tags'
+    url: /tags/
+  - title: 'About'
+    url: /about/
+
+sidebar:
+  - title: Overview
+    url: /
+  - title: The Open Business Alliance
+    children:
+      - title: Identification and Legal Information
+        url: /identification-and-legal/
+      - title: Mission and Values
+        url: /mission-and-values/

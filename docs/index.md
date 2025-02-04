@@ -1,19 +1,17 @@
----
----
 # The Open Business Policy
 
 A set of ethical, evidence based business policies and procedures.
 
-## [License](LICENSE.md)
+## [License](../LICENSE.md)
 
-<img src="images/by-sa.svg" style="height:24px;" />
+<img src="../images/by-sa.svg" alt="CC BY SA Logo" style="height:24px;" />
 
 The Open Business Policy © 2025 by Tony M. Bishop is licensed under
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;
 
 ## Overview
 
-These documents provides a set of ethical, evidence based, and open source business policies and procedures for any business to use. These policies are designed to enforce fairness, transparency, accountability, and social responsibility within any organization that adopts them. By integrating principles rooted in ethics and evidence, The Open Business Policy aims to create a sustainable, extendable framework that supports the health and well being of the people, the community, and the organization. 
+These documents provides a set of ethical, evidence based, and open source business policies and procedures for any business to use. These policies are designed to enforce fairness, transparency, accountability, and social responsibility within any organization that adopts them. By integrating principles rooted in ethics and evidence, The Open Business Policy aims to create a sustainable, extendable framework that supports the health and well being of the people, the community, and the organization.
 
 ## Core Principles
 
@@ -25,7 +23,7 @@ These documents provides a set of ethical, evidence based, and open source busin
 
 ## Scope
 
-These policies and procedures are intended to cover a wide range of organizations and organizational needs while remaining adaptable and scalable. They are structured to address common operational areas such as employee success, community engagement, stewardship, governance, risk management, financial practices, data security, and more. 
+These policies and procedures are intended to cover a wide range of organizations and organizational needs while remaining adaptable and scalable. They are structured to address common operational areas such as employee success, community engagement, stewardship, governance, risk management, financial practices, data security, and more.
 
 ## About the Policies
 
