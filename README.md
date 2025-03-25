@@ -1,10 +1,8 @@
 # The Open Business Policy
 
-A set of ethical, evidence based business policies and procedures.
-
 ## [License](LICENSE.md)
 
-<img src="docs/images/by-sa.svg" style="height:24px;" />
+<img alt="" src="docs/images/by-sa.svg" style="height:24px;" />
 
 The Open Business Policy © 2025 by Tony M. Bishop is licensed under
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;
@@ -26,6 +24,10 @@ These documents provides a set of ethical, evidence based, and open source busin
 These policies and procedures are intended to cover a wide range of organizations and organizational needs while remaining adaptable and scalable. They are structured to address common operational areas such as employee success, community engagement, stewardship, governance, risk management, financial practices, data security, and more.
 
 ## About the Policies
+
+### Relationship to The Egalitarian Alliance
+
+The Egalitarian Alliance operates under The Open Business Policy. In other words, we eat our own cooking.
 
 ### What is Included
 

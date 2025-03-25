@@ -3,7 +3,9 @@
 	"code-block-style": {
 		"style": "fenced"
 	},
-	"code-fence-style": false,
+	"code-fence-style": {
+		"style": "backtick"
+	},
 	"emphasis-style": {
 		"style": "underscore"
 	},
@@ -11,19 +13,18 @@
 		"style": "atx"
 	},
 	"hr-style": {
-		"style": "---"
+		"style": "consistent"
 	},
 	"line-length": false,
 	"link-image-style": {
-		"collapsed": false
+		"collapsed": false,
+		"shortcut": false,
+		"url_inline": false
 	},
 	"no-duplicate-heading": {
 		"siblings_only": true
 	},
-	"no-hard-tabs": {
-		"spaces_per_tab": 4,
-		"code_blocks": false
-	},
+	"no-hard-tabs": false,
 	"no-inline-html": {
 		"allowed_elements": ["img", "a", "sup", "sub", "del", "mark", "br", "q", "small", "u"]
 	},
@@ -37,7 +38,7 @@
 	"proper-names": {
 		"code_blocks": false,
 		"html_elements": true,
-		"names": ["The Open Business Policy", "GitHub", "github.com"]
+		"names": ["The Egalitarian Alliance", "The Open Business Policy", "GitHub", "github.com"]
 	},
 	"strong-style": {
 		"style": "asterisk"
