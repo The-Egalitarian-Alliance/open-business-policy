@@ -4,6 +4,10 @@
 
 Provide a clear and concise summary of the guiding principle.
 
+## Rationale
+
+Explain the "why" behind the policy, e.g., what issue does it address or prevent.
+
 ## Procedures
 
 Provide step-by-step instructions to implement the policy in practice.
